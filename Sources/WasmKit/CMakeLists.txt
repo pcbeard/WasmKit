@@ -26,6 +26,7 @@ add_wasmkit_library(WasmKit
   Execution/Instructions/V128Lanes.swift
   Execution/ConstEvaluation.swift
   Execution/DispatchInstruction.swift
+  Execution/DWARFLineTable.swift
   Execution/EngineInterceptor.swift
   Execution/Errors.swift
   Execution/Execution.swift
